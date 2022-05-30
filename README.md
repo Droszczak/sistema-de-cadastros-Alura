@@ -1,5 +1,8 @@
 # Sistema de Cadastro de jogos
 
+> https://guilhermeonrails.github.io/manual-do-git-e-github/
+
+
 > Status do Projeto: Em desenvolvimento
 
 ```
